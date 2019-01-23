@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi everyone, 
+
+I am interested in data science , data analysis and data visualization .
